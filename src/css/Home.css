@@ -1,0 +1,20 @@
+.Home .HomeContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 40rem;
+}
+
+.Home .HomeContainer h1{
+    padding-top: 2rem;
+    font-family: 'Indie Flower', cursive;
+    font-size: 5rem;
+}
+
+.Home .HomeContainer p{
+    padding: 3rem;
+    padding-top: 2rem;
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.5rem;
+}

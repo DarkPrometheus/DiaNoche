@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import './css/ArticuloResponsive.css';
+import { AppRouter } from './components/AppRouter';
 
 ReactDOM.render(
-  <App />,
+  <AppRouter />,
   document.getElementById('root')
 );
