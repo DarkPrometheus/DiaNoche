@@ -1,0 +1,33 @@
+.Articulo{
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    flex-direction: column;
+    align-items: center;
+    background-color: #efbbcf;
+    height: fit-content;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.Articulo h1{
+    font-size: 1.7rem;
+    padding: 1rem;
+}
+
+.Articulo img{
+    width: 90%;
+    height: 20rem;
+}
+
+.Articulo .Precio{
+    font-size: 1.5rem;
+    margin-top: -1.5rem;
+}
+
+.Articulo .Desc{
+    width: 100%;
+    font-size: 1.2rem;
+    margin-left: 2rem;
+    padding: 1rem 0;
+}
