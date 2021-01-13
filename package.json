@@ -1,6 +1,5 @@
 {
   "name": "dia_noche",
-  "homepage":"https://darkprometheus.github.io/DiaNoche/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
